@@ -274,7 +274,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                   return CircularProgressIndicator();
                                 },
                               ),
-                              Text("Deaths", style: kSubTextStyle),
+                              Text("Infected", style: kSubTextStyle),
                             ],
                           ),
                           Column(
