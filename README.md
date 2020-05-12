@@ -10,6 +10,8 @@ Live Updating Covid Stats App
 - Add dynamic map reloads
 - Add filter using country drop down menu
 
+
+# Other:
 **Packages we are using:**
 
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
